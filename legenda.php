@@ -34,23 +34,25 @@
         </div>
     </nav>
 
-            <table class="table w-50 justify-content-center mx-auto mt-5 rounded" >
+            <table class="table w-50 justify-content-center mx-auto mt-5" >
                 <thead>
                     <tr>
                         <th scope="col">#</th>
-                        <th scope="col">First</th>
-                        <th scope="col">Last</th>
-                        <th scope="col">Handle</th>
+                        <th scope="col">Groep</th>
+                        <th scope="col">Project</th>
+                        <th scope="col">categorie</th>
+            
                     </tr>
                 </thead>
                 <tbody>
                    
                     <tr>
-                        <th scope="row">2</th>
+                        <th scope="row">1</th>
                         <td>Jacob</td>
                         <td>Thornton</td>
                         <td>@fat</td>
                     </tr>
+                
 
                 </tbody>
             </table>
