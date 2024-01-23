@@ -29,7 +29,7 @@
         </div>
     </nav>
     <div class="plattengrond text-center mt-5">
-    <img src="plattegrond.png" alt="" class="img-fluid">
+    <img src="diagram.png" alt="" class="img-fluid">
     </div>
 </body>
 </html>
