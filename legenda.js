@@ -141,129 +141,136 @@ const legenda = [
         category: "Eindproject"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 20,
+        booth: "B 0.22",
+        participants: "Esther, Mario, Nik, Naoufal",
+        description: "...",
+        category: "Eindproject"
+    },
+    {
+        id: 21,
+        booth: "B 0.26",
+        participants: "Wessel, Menno, Jochem",
+        description: "...",
+        category: "Eindproject"
+    },
+    {
+        id: 22,
+        booth: "B 0.23",
+        participants: "Daan, Ties, Jurre, Rick",
+        description: "...",
+        category: "Eindproject"
+    },
+    {
+        id: 23,
+        booth: "B 0.50",
+        participants: "Daan, Ties, Jurre, Rick",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
+        id: 24,
         booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        participants: "Rick, John,  Koen, Martijn",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 25,
+        booth: " B 0.48",
+        participants: "Rabia, Aya, Nik en Jewel",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 26,
+        booth: " B 0.07",
+        participants: "Jayden, Jochem, Bjorn, Jonah",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 27,
+        booth: " B 0.50",
+        participants: "Zubeyir, Ilias en Lukas",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
+        id: 28,
         booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        participants: "Adam, Damian en Juda",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 29,
+        booth: " B 0.48",
+        participants: "Charlie en Cadiz",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 30,
+        booth: " B 0.07",
+        participants: "Tijn, Levi en Jop",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 31,
+        booth: " B 0.04",
+        participants: "Nyls, Igor en Sam",
+        description: "Starterswoning",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 32,
+        booth: " B 0.07",
+        participants: "Karima en Julian",
+        description: "Insteekhaven",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 33,
+        booth: " B 0.04",
+        participants: "Revy en Michael",
+        description: "Insteekhaven",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 34,
+        booth: " B 0.04",
+        participants: "Kick en Olivier",
+        description: "...",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 35,
+        booth: " B 0.04",
+        participants: "Daan en Sibren",
+        description: "...",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 36,
+        booth: " B 0.07",
+        participants: "Jing Fang en Dennis",
+        description: "...",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 37,
+        booth: " B 0.23",
+        participants: "Stijn en Justin",
+        description: "...",
         category: "Proffesioneel"
     },
     {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
-        category: "Proffesioneel"
-    },
-    {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
-        category: "Proffesioneel"
-    },
-    {
-        id: 2,
-        booth: " B 0.49",
-        participants: "Kumeel",
-        description: "Vakantiebungalow",
+        id: 38,
+        booth: " B 0.26",
+        participants: "Jorn en Lars",
+        description: "...",
         category: "Proffesioneel"
     },
 
