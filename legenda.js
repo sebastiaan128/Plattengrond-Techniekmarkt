@@ -402,4 +402,6 @@ const legenda = [
     }
 ];
 
-console.log(legenda);
+console.log(legenda); for (let i = 0; i < legenda.length; i++) {
+    console.log(legenda[i]);
+}

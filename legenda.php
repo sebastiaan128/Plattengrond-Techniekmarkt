@@ -28,7 +28,19 @@
                 </ul>
             </div>
             <form class="d-flex" role="search">
-             <tr>
+                <table class="table w-50 justify-content-center mx-auto mt-5" >
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Klaslokaal</th>
+                            <th scope="col">Groep</th>
+                            <th scope="col">Project</th>
+                            <th scope="col">Categorie</th>
+                
+                        </tr>
+                    </thead>
+                    <tbody>
+                <tr>
                         <th scope="row">1</th>
                         <td>B 0.50</td>
                         <td>STMN, Bungaloos,Kayan</td>
@@ -298,18 +310,6 @@
         </div>
     </nav>
 
-            <table class="table w-50 justify-content-center mx-auto mt-5" >
-                <thead>
-                    <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">Klaslokaal</th>
-                        <th scope="col">Groep</th>
-                        <th scope="col">Project</th>
-                        <th scope="col">Categorie</th>
-            
-                    </tr>
-                </thead>
-                <tbody>
                    
                     <tr>
                         <th scope="row">1</th>
@@ -574,140 +574,144 @@
                         <th scope="row">38</th>
                         <td>B 0.26</td>
                         <td>Jorn en Lars</td>
-                        <td>...</td>
-                        <td>Proffesioneel</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">39</th>
-                        <td>B 0.04</td>
-                        <td>Rutger en Ryan</td>
-                        <td>...</td>
-                        <td>Proffesioneel</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">40</th>
-                        <td>B 0.07</td>
-                        <td>Julian, Nickolai en Sjoerd</td>
-                        <td>...</td>
-                        <td>Proffesioneel</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">41</th>
-                        <td>B 0.22</td>
-                        <td>Tijn en Julian</td>
-                        <td>...</td>
-                        <td>Proffesioneel</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">42</th>
-                        <td>B 0.23</td>
-                        <td>Bryan van 't Veld ,Tim de Groot</td>
-                        <td>Nas @ Home</td>
-                        <td>Innovatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">43</th>
-                        <td>B 0.04</td>
-                        <td>Jasper van seters, Noah Spekman</td>
-                        <td>Home Assist</td>
-                        <td>Innovatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">44</th>
-                        <td>B 0.22</td>
-                        <td>Jesse Ruis, Toon van der Zouw</td>
-                        <td>PC Builder</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">45</th>
-                        <td>B 0.23</td>
-                        <td>Massimo D' Accorso, Ralph Vangangel</td>
-                        <td>Wifi Secure</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">46</th>
-                        <td>B 0.26</td>
-                        <td>Twan Kok, Noah van Schevikhoven, Job Mathijssen</td>
-                        <td>Een klei bedrijfsnetwerk bouwen</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">47</th>
-                        <td>B 0.23</td>
-                        <td>Navid Shadbasd, Teo Deen, Oussama El Boualiti</td>
-                        <td>Project Home Netwerk</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">48</th>
-                        <td>B 0.22</td>
-                        <td>Redouan Lakbiach, Mohammed Elkarouni ,Mahamoud Diallo</td>
-                        <td>Eigen Project</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">49</th>
-                        <td>B 0.23</td>
-                        <td>Anouar Hajou, Jesse Heijsman, Parasto Rabiee</td>
-                        <td>Droneshow</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">50</th>
-                        <td>B 0.26</td>
-                        <td>Lenox van den Berg, Olivier van Zijl</td>
-                        <td>Bortholomeus Gasthuis</td>
-                        <td>Proffesioneel</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">51</th>
-                        <td>B 0.26</td>
-                        <td>Jesse Heijsman, Parasto Rabiee, Anouar Hajou</td>
-                        <td>Zora Robots</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">52</th>
-                        <td>B 0.22</td>
-                        <td>Kevin Zheng, Sebastiaan Balfoort, Sven de Ruiter, Mike Noorlander</td>
-                        <td>Interactieve Plattegrond</td>
-                        <td>Innovatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">53</th>
-                        <td>B 0.04</td>
-                        <td>Floris</td>
-                        <td>Bureau</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">54</th>
-                        <td>B 0.07</td>
-                        <td>Jordy</td>
-                        <td>Thornton</td>
-                        <td>Creatief</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">55</th>
-                        <td>B 0.07</td>
-                        <td>...</td>
-                        <td>TRL</td>
-                        <td>Bonus</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">56</th>
-                        <td>B 0.04</td>
-                        <td>...</td>
-                        <td>TRL</td>
-                        <td>Bonus</td>
-                    </tr>
-                
-
-                </tbody>
-       
-            </table>
-            
+                        <!-- FILEPATH: /Applications/XAMPP/xamppfiles/htdocs/Localhost/TechniekMarkt/Plattengrond-Techniekmarkt/legenda.php -->
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">38</th>
+                                    <td>B 0.26</td>
+                                    <td>...</td>
+                                    <td>Proffesioneel</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">39</th>
+                                    <td>B 0.04</td>
+                                    <td>Rutger en Ryan</td>
+                                    <td>...</td>
+                                    <td>Proffesioneel</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">40</th>
+                                    <td>B 0.07</td>
+                                    <td>Julian, Nickolai en Sjoerd</td>
+                                    <td>...</td>
+                                    <td>Proffesioneel</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">41</th>
+                                    <td>B 0.22</td>
+                                    <td>Tijn en Julian</td>
+                                    <td>...</td>
+                                    <td>Proffesioneel</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">42</th>
+                                    <td>B 0.23</td>
+                                    <td>Bryan van 't Veld, Tim de Groot</td>
+                                    <td>Nas @ Home</td>
+                                    <td>Innovatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">43</th>
+                                    <td>B 0.04</td>
+                                    <td>Jasper van seters, Noah Spekman</td>
+                                    <td>Home Assist</td>
+                                    <td>Innovatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">44</th>
+                                    <td>B 0.22</td>
+                                    <td>Jesse Ruis, Toon van der Zouw</td>
+                                    <td>PC Builder</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">45</th>
+                                    <td>B 0.23</td>
+                                    <td>Massimo D' Accorso, Ralph Vangangel</td>
+                                    <td>Wifi Secure</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">46</th>
+                                    <td>B 0.26</td>
+                                    <td>Twan Kok, Noah van Schevikhoven, Job Mathijssen</td>
+                                    <td>Een klei bedrijfsnetwerk bouwen</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">47</th>
+                                    <td>B 0.23</td>
+                                    <td>Navid Shadbasd, Teo Deen, Oussama El Boualiti</td>
+                                    <td>Project Home Netwerk</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">48</th>
+                                    <td>B 0.22</td>
+                                    <td>Redouan Lakbiach, Mohammed Elkarouni, Mahamoud Diallo</td>
+                                    <td>Eigen Project</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">49</th>
+                                    <td>B 0.23</td>
+                                    <td>Anouar Hajou, Jesse Heijsman, Parasto Rabiee</td>
+                                    <td>Droneshow</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">50</th>
+                                    <td>B 0.26</td>
+                                    <td>Lenox van den Berg, Olivier van Zijl</td>
+                                    <td>Bortholomeus Gasthuis</td>
+                                    <td>Proffesioneel</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">51</th>
+                                    <td>B 0.26</td>
+                                    <td>Jesse Heijsman, Parasto Rabiee, Anouar Hajou</td>
+                                    <td>Zora Robots</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">52</th>
+                                    <td>B 0.22</td>
+                                    <td>Kevin Zheng, Sebastiaan Balfoort, Sven de Ruiter, Mike Noorlander</td>
+                                    <td>Interactieve Plattegrond</td>
+                                    <td>Innovatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">53</th>
+                                    <td>B 0.04</td>
+                                    <td>Floris</td>
+                                    <td>Bureau</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">54</th>
+                                    <td>B 0.07</td>
+                                    <td>Jordy</td>
+                                    <td>Thornton</td>
+                                    <td>Creatief</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">55</th>
+                                    <td>B 0.07</td>
+                                    <td>...</td>
+                                    <td>TRL</td>
+                                    <td>Bonus</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">56</th>
+                                    <td>B 0.04</td>
+                                    <td>...</td>
+                                    <td>TRL</td>
+                                    <td>Bonus</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </tbody>
+                        </table>
 </body>
 </html>
