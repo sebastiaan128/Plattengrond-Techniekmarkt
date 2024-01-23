@@ -428,14 +428,14 @@
                     <tr>
                         <th scope="row">55</th>
                         <td>B 0.07</td>
-                        <td>Jacob</td>
+                        <td>...</td>
                         <td>TRL</td>
                         <td>Bonus</td>
                     </tr>
                     <tr>
                         <th scope="row">56</th>
                         <td>B 0.04</td>
-                        <td>Jacob</td>
+                        <td>...</td>
                         <td>TRL</td>
                         <td>Bonus</td>
                     </tr>
