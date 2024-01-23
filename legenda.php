@@ -28,8 +28,272 @@
                 </ul>
             </div>
             <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-light" type="submit">Search</button>
+             <tr>
+                        <th scope="row">1</th>
+                        <td>B 0.50</td>
+                        <td>STMN, Bungaloos,Kayan</td>
+                        <td>Vakantiebungalow</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">2</th>
+                        <td>B 0.49</td>
+                        <td>Kumeel</td>
+                        <td>Vakantiebungalow</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">3</th>
+                        <td>B 0.48</td>
+                        <td>OSSO, Reda</td>
+                        <td>Vakantiebungalow</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">4</th>
+                        <td>B 0.23</td>
+                        <td>Vincenzo</td>
+                        <td>Vakantiebungalow</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">5</th>
+                        <td>B 0.26</td>
+                        <td>Jesper</td>
+                        <td>Fitnessapparaat</td>
+                        <td>Creatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">6</th>
+                        <td>B 0.50</td>
+                        <td>Rico</td>
+                        <td>Fitnessapparaat</td>
+                        <td>Creatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">7</th>
+                        <td>B 0.49</td>
+                        <td>Lute</td>
+                        <td>Fitnessapparaat</td>
+                        <td>Creatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">8</th>
+                        <td>B 0.48</td>
+                        <td>Niels</td>
+                        <td>Fitnessapparaat</td>
+                        <td>Creatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">9</th>
+                        <td>B 0.26</td>
+                        <td>Milan, Daniel, Timo</td>
+                        <td>...</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">10</th>
+                        <td>B 0.07</td>
+                        <td>Bert, Roshan, Parsa Arefi, Finn</td>
+                        <td>Celcius Huis</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">11</th>
+                        <td>B 0.04</td>
+                        <td>Emre en Anouar</td>
+                        <td>Diakonessenziekenhuis</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">12</th>
+                        <td>B 0.26</td>
+                        <td>Zakaria, Kyle en Mert</td>
+                        <td>Farmbotproject</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">13</th>
+                        <td>B 0.22</td>
+                        <td>Myron, Jesse en Marijn</td>
+                        <td>Farmbotproject</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">14</th>
+                        <td>B 0.07</td>
+                        <td>Jay, Thom en Milan</td>
+                        <td>Farmbotproject</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">15</th>
+                        <td>B 0.04</td>
+                        <td>Luuk, Julian, Gyon en Matthijs</td>
+                        <td>Farmbotproject</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">16</th>
+                        <td>B 0.22</td>
+                        <td>Jens, Milo, Stijn</td>
+                        <td>Miele</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">17</th>
+                        <td>B 0.23</td>
+                        <td>Amit, Dave, Thijs, Jiannis</td>
+                        <td>Miele</td>
+                        <td>Innovatief</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">18</th>
+                        <td>B 0.07</td>
+                        <td>Stan, Dave, Marien, Yaltah, Sergio</td>
+                        <td>...</td>
+                        <td>Eindproject</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">19</th>
+                        <td>B 0.04</td>
+                        <td>Rens, Rick, Bart</td>
+                        <td>...</td>
+                        <td>Eindproject</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">20</th>
+                        <td>B 0.22</td>
+                        <td>Esther, Mario, Nik, Naoufal</td>
+                        <td>...</td>
+                        <td>Eindproject</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">21</th>
+                        <td>B 0.26</td>
+                        <td>Wessel, Menno, Jochem</td>
+                        <td>...</td>
+                        <td>Eindproject</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">22</th>
+                        <td>B 0.23</td>
+                        <td>Daan, Ties, Jurre, Rick</td>
+                        <td>...</td>
+                        <td>Eindproject</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">23</th>
+                        <td>B 0.50</td>
+                        <td>Mirjam, Nisa Nur, Lumen en Nathan</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">24</th>
+                        <td>B 0.49</td>
+                        <td>Rick, John,  Koen, Martijn</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">25</th>
+                        <td>B 0.48</td>
+                        <td>Rabia, Aya, Nik en Jewel</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">26</th>
+                        <td>B 0.07</td>
+                        <td>Jayden, Jochem, Bjorn, Jonah</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">27</th>
+                        <td>B 0.50</td>
+                        <td>Zubeyir, Ilias en Lukas</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">28</th>
+                        <td>B 0.49</td>
+                        <td>Adam, Damian en Juda</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">29</th>
+                        <td>B 0.48</td>
+                        <td>Charlie en Cadiz</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">30</th>
+                        <td>B 0.07</td>
+                        <td>Tijn, Levi en Jop</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">31</th>
+                        <td>B 0.04</td>
+                        <td>Nyls, Igor en Sam</td>
+                        <td>Starterswoning</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">32</th>
+                        <td>B 0.07</td>
+                        <td>Karima en Julian</td>
+                        <td>Insteekhaven</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">33</th>
+                        <td>B 0.04</td>
+                        <td>Revy en Micheal</td>
+                        <td>Insteekhaven</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">34</th>
+                        <td>B 0.04</td>
+                        <td>Kick en Olivier</td>
+                        <td>...</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">35</th>
+                        <td>B 0.07</td>
+                        <td>Daan en Sibren</td>
+                        <td>...</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">36</th>
+                        <td>B 0.22</td>
+                        <td>Jing Fang en Dennis</td>
+                        <td>...</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">37</th>
+                        <td>B 0.23</td>
+                        <td>Stijn en Justin</td>
+                        <td>...</td>
+                        <td>Proffesioneel</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">38</th>
+                        <td>B 0.26</td>
+                        <td>Jorn en Lars</td>
+                        <td>...</td>
+                        <td>Proffesioneel</td>
+                    </tr>
       </form>
         </div>
     </nav>
