@@ -38,9 +38,10 @@
                 <thead>
                     <tr>
                         <th scope="col">#</th>
+                        <th scope="col">Klaslokaal</th>
                         <th scope="col">Groep</th>
                         <th scope="col">Project</th>
-                        <th scope="col">categorie</th>
+                        <th scope="col">Categorie</th>
             
                     </tr>
                 </thead>
@@ -441,6 +442,8 @@
                 
 
                 </tbody>
+       
             </table>
+            
 </body>
 </html>
