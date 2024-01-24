@@ -306,10 +306,7 @@
                         <td>...</td>
                         <td>Proffesioneel</td>
                     </tr>
-      </form>
-        </div>
-    </nav>
-
+  
                    
                     <tr>
                         <th scope="row">1</th>
