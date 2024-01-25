@@ -23,7 +23,7 @@
                     <li class="nav-item">
                         <a class="nav-link text-white" href="plattengrond.php">Plattegrond</a>
                     </li>
-                    <li class="nav-item">
+                      <li class="nav-item">
                         <a class="nav-link text-white" href="legenda.php">Legenda</a>
                     </li>
                 </ul>
@@ -45,7 +45,7 @@
                                     <div class="modal-dialog rounded">
                                         <div class="modal-content">
                                             <div class="modal-header">
-                                                <h5 class="modal-title">Modal Title</h5>
+                                                <h5 class="modal-title">Legenda</h5>
                                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                             </div>
                                             <div class="modal-body">
@@ -58,9 +58,9 @@
                             <th scope="col">Project</th>
                 
                         </tr>
-                                                    </thead>
-                                                    <tbody class="resposive">
-                                                    <tr>
+                        </thead>
+                        <tbody class="resposive">
+                        <tr>
                         <th scope="row">1</th>
                         <td>B 0.50</td>
                         <td>STMN, Bungaloos,Kayan</td>
@@ -403,7 +403,7 @@
                                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                                             </div>
                                         </div>
-                                    </div>
-                                    </div>
-                                    </body>                                    </html>
-
+                </div>
+            </div>
+    </body>                                    
+</html>
